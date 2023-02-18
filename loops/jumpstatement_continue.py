@@ -1,4 +1,4 @@
-for i in range(10):
+for i in range(10): # 0 la start agi end la -1 ah irukum
     if i==5:
         continue
     print(i)
