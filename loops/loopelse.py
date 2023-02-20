@@ -1,5 +1,5 @@
 for i in range(0,10):
-    if i==5:
+    if i==10:
         break
     print(i)
 else:
