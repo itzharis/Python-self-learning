@@ -16,6 +16,7 @@ n=10
 for i in range(n):
     print("hi")
 """
+"""
 # if else condition
 
 n = int(input("ENter the number to find even or odd number:"))
@@ -24,4 +25,6 @@ if n%2 == 0:
 else:
     print("Odd")
     
+"""
+
     
