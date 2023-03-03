@@ -1,0 +1,12 @@
+"""n = int(input("Enter the number to find the square root: "))
+result = 1
+for i in range(2):
+    result = result * n 
+print(result)"""
+
+m = 3
+n = 3
+print(m ** n)
+
+num=int(input("Ener the number : "))
+print (num*num)
